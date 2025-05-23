@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou a Isabela Santos</h1>
 
-<!--
-**silvsts/silvsts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌟 Bem-vinda(o) ao meu perfil GitHub! <br/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Sobre mim
+
+- 🎓 Estudando Desenvolvimento de Sistemas no SENAI Petrópolis
+- 💻 Atualmente aprendendo: **Estrutura de dados**
+- 📍 Localização: Brasil
+- ✨ Interesses: livros, TI e linguagens
+- 📫 Contato: [E-mail](isasantossilvabela@gmail.com) • [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+
+![snake](https://github.com/user-attachments/assets/c64b64fe-dba4-4581-90e0-f5a2ca31ee07)
+
+---
+
+<p align="center">
+  <b>Obrigada por visitar! ⭐️</b> <br/>
+</p>
