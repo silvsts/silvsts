@@ -12,8 +12,7 @@
 - 💻 Atualmente aprendendo: **Estrutura de dados**
 - 📍 Localização: Brasil
 - ✨ Interesses: livros, TI e linguagens
-- 📫 Contato: [E-mail](isasantossilvabela@gmail.com) • [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-
+- 📫 Contato: [E-mail](isasantossilvabela@gmail.com) 
 ![snake](https://github.com/user-attachments/assets/c64b64fe-dba4-4581-90e0-f5a2ca31ee07)
 
 ---
